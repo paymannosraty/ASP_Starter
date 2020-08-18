@@ -23,7 +23,6 @@ namespace MY_APPLICATION.Controllers
         }
 		#endregion //Login
 
-
 		#region Register
 		[System.Web.Mvc.HttpGet]
         public System.Web.Mvc.ViewResult Register()
